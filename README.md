@@ -30,6 +30,7 @@ Users can register, list, toggle (open/close), and delete restaurants directly f
 * Clear separation between **control, view, and model layers**
 * Interactive menu structure with input validation and error handling
 * Modularization and software design best practices
+* Json database 
 
 ---
 
