@@ -1,5 +1,5 @@
 # Python_OOP_projects
-This repository gathers projects and practical examples developed during my studies on Object-Oriented Programming (OOP) in Python. The goal is to explore core concepts — such as classes, inheritance, encapsulation, and polymorphism — and apply them across different contexts, from introductory exercises to more advanced implementations.
+This repository gathers projects and practical examples developed during my studies on Object-Oriented Programming (OOP) in Python. The goal is to explore core concepts — such as classes, inheritance, encapsulation, and polymorphism — and apply them across different contexts, from introductory exercises to more advanced implementations. 
 
 ## 📂 Included Projects
 
@@ -78,11 +78,10 @@ To progressively explore the fundamentals of **Object-Oriented Programming (OOP)
 ---
 
 ## 🏷️ Technologies Used
-
 * **Python 3.10+**
 * **MVC (Model-View-Controller)** structure
 * Best practices PEP8 for modularization and code reuse 
 
 ## 🔖 Tags
 
-#Python #OOP #MVC #Programming #SoftwareDesign #CleanCode #LearningPython #GitHubProjects
+#Python #OOP #MVC #Programming #SoftwareDesign #CleanCode #LearningPython #GitHubProjects #AprendiNaAlura
